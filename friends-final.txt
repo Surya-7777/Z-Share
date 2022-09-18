@@ -1,0 +1,2 @@
+hello this is for testing
+this file will be share by our sharing app to client side
